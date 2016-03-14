@@ -15,7 +15,7 @@ P2(2) = 1/36
 cd to folder
 irb -r './probability.rb'
 
-
+```
 
 -------------------- VIA DISTRIBUTION --------------------
        user     system      total        real
@@ -52,3 +52,4 @@ Probability get 350 with 100 dices: 0.02332260601534536
 Probability get 1000 with 300 dices: 0.0032355163938765294
 
 -------------------- ----------------- --------------------
+```
